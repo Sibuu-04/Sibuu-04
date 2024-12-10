@@ -34,7 +34,7 @@ Here are a few projects I've worked on:
 
 ## 🌐 Connect with Me  
 - **Email**: [shubhashishbarik7654@gmail.com](mailto:shubhashishbarik7654@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/shubhashish-barik-238969321)  
+- **LinkedIn**: [(www.linkedin.com/in/shubhashish-barik-238969321](www.linkedin.com/in/shubhashish-barik-238969321)  
 - **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)  
 
 ---
